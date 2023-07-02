@@ -2,15 +2,8 @@
 
 List of university names of every country
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+MVVM Provider Practice
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+MVVM stands for Model-View-ViewModel. The basic idea is to create a view model that’ll provide data to the view. The view can use the data provided by the view model to populate itself. Creating a view-model layer allows us to write modular code, which can be used by several views.
